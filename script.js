@@ -1,5 +1,4 @@
 'use strict';
-// Comment
 
 // Selecting Elements
 const score0EL = document.querySelector('#score--0');
