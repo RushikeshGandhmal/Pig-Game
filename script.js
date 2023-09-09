@@ -63,7 +63,7 @@ btnHold.addEventListener('click', () => {
     scores[activePlayer];
 
   // Check if player score is >= 100
-  if (scores[activePlayer] >= 10) {
+  if (scores[activePlayer] >= 100) {
     isPlaying = false;
     diceEl.classList.add('hidden');
     document
